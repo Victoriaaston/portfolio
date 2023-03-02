@@ -73,6 +73,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#me {
+	margin-left: auto;
+	margin-right: auto;
+	width: 45%;
+}
 /* Basic */
 
 	@-ms-viewport {
